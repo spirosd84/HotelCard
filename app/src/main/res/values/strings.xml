@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HotelCard</string>
+    <string name="header">"Welcome to Niki hotel"</string>
+    <string name="description">"Niki Hotel, offers since 1976 its warm hospitality in the center of Piraeus. Our location is ideal, as situated in a discreet and quiet area, near the main port of the country, the subway, the Athens suburban train station, as well as all the commercial shops."</string>
+    <string name="address">"Giannakiou Tzelepi 5, 18532, Piraeus, Greece"</string>
+    <string name="phone">"+30 21041166602"</string>
+    <string name="mail">"info@niki-hotel.gr"</string>
+    <string name="web">"www.niki-hotel.gr"</string>
+    <string name="button">"BOOK NOW"</string>
+</resources>
